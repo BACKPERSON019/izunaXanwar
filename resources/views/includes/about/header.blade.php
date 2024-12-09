@@ -4,9 +4,10 @@
 
             <div class="col-lg-12 col-12 text-center">
 
-                <h2 class="mb-0">About Page</h2>
+                <h2 class="mb-0" style="font-family: font-family: 'Magical Nordic', sans-serif;">About Page</h2>
             </div>
 
         </div>
     </div>
 </header>
+
